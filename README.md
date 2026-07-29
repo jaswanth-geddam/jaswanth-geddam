@@ -20,8 +20,8 @@
 
 ## Experience
 
-**Software Engineer** @ iSpace Inc (Client: Korn Ferry) — _Dec 2024 – Present_
-**Software Engineer** @ HYNO — _Jun 2022 – Dec 2024_
+- **Software Engineer** @ iSpace Inc (Client: Korn Ferry) — _Dec 2024 – Present_
+- **Software Engineer** @ HYNO — _Jun 2022 – Dec 2024_
 
 ---
 
