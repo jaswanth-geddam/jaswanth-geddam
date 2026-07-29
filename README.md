@@ -42,10 +42,10 @@
 
 | Project                                                                              | Description                                                                       | Stack                       |
 | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | --------------------------- |
-| 🚗 **[car-pooling](https://github.com/jaswanth-geddam/car-pooling)**                 | Ride-sharing platform with booking, scheduling, and city-based search             | NestJS, PostgreSQL, TypeORM |
-| 🏥 **[apollo](https://github.com/jaswanth-geddam/apollo)**                           | Doctor appointment booking with calendar integration and real-time slot selection | React, Node.js, MongoDB     |
-| 🧠 **[interview-ai](https://github.com/jaswanth-geddam/interview-ai)**               | AI-powered interview preparation with voice transcription                         | React, OpenAI, Whisper      |
 | 🧩 **[one-ai](https://github.com/jaswanth-geddam/one-ai)**                           | Full-stack AI app with resume parsing, job features, and Google OAuth             | React, Express, MongoDB     |
+| 🏥 **[apollo](https://github.com/jaswanth-geddam/apollo)**                           | Doctor appointment booking with calendar integration and real-time slot selection | React, Node.js, MongoDB     |
+| 🚗 **[car-pooling](https://github.com/jaswanth-geddam/car-pooling)**                 | Ride-sharing platform with booking, scheduling, and city-based search             | NestJS, PostgreSQL, TypeORM |
+| 🧠 **[interview-ai](https://github.com/jaswanth-geddam/interview-ai)**               | AI-powered interview preparation with voice transcription                         | React, OpenAI, Whisper      |
 | 🏗️ **[formbuilder](https://github.com/jaswanth-geddam/formbuilder)**                 | Dynamic drag-and-drop form builder with multi-step workflows                      | React, Node.js, MongoDB     |
 | 🛍️ **[sephora](https://github.com/jaswanth-geddam/sephora)**                         | E-commerce clone with product catalog, cart, and checkout                         | React, Node.js, PostgreSQL  |
 | 🌱 **[syngenta](https://github.com/jaswanth-geddam/syngenta)**                       | Agricultural data management and analytics dashboard                              | React, Node.js, PostgreSQL  |
