@@ -21,20 +21,7 @@
 ## Experience
 
 **Software Engineer** @ iSpace Inc (Client: Korn Ferry) — _Dec 2024 – Present_
-
-- Built enterprise features for the KF-One Career Development Platform (React, Next.js, TypeScript, Redux, NestJS, PostgreSQL)
-- Developed appointment scheduling system with Zoom and Google Calendar API integration — one-to-one, one-to-many, and recurring workflows
-- Built appointment notes functionality with scheduling, rescheduling, and session management
-- Developed Add Participants with bulk CSV upload; improved performance via lazy loading, code splitting, memoization
-- Containerized backend services using Docker and supported AWS deployment pipelines through CI/CD
-
 **Software Engineer** @ HYNO — _Jun 2022 – Dec 2024_
-
-- Built React.js modules for government approval workflows (TG-bPASS project)
-- Developed Formik-based multi-step forms; implemented JWT auth for Plover AI
-- Built AI-powered Cover Letter Generator using OpenAI APIs with automated PDF generation
-- Implemented secure file uploads to Amazon S3 using pre-signed URLs
-- Optimized MongoDB queries through indexing and schema improvements
 
 ---
 
