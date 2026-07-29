@@ -84,7 +84,7 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Jaswanth_Geddam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanth-geddam-52b951169/)
+[![LinkedIn](https://img.shields.io/badge/-Jaswanth_Geddam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanth-geddam/)
 [![Email](https://img.shields.io/badge/-jaswanth.geddam.lead@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jaswanth.geddam.lead@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-jaswanth--geddam-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/jaswanth-geddam/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jaswanth-geddam)
